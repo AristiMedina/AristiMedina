@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔ I'am a student open to new technologies, methodologies and any other type of learning. ⭐<br>✔ I'am intuitive and have a facility for hands-on learning. ✨<br>✔ I'am good at following instructions and collaborating with other developers ✨<br>✔ I am recursive and have good programming logic. ⭐<br>✔ I tend to be detail oriented, I have a good ability to pick up on small details. ⭐<br>✔ I'am currently learning independently, and I do my work with my heart and a touch of my own essence. ⭐<br>✔ Somewhat distracted, but 100% focused on my projects, my work and my study. ✨
+✅ I'am a student open to new technologies, methodologies and any other type of learning. ⭐<br>✅ I'am intuitive and have a facility for hands-on learning. ✨<br>✅ I'am good at following instructions and collaborating with other developers ✨<br>✅ I am recursive and have good programming logic. ⭐<br>✅ I tend to be detail oriented, I have a good ability to pick up on small details. ⭐<br>✅ I'am currently learning independently, and I do my work with my heart and a touch of my own essence. ⭐<br>✅ Somewhat distracted, but 100% focused on my projects, my work and my study. ✨
 
 
 ## 🌐 Socials:
